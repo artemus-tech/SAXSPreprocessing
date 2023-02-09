@@ -1,0 +1,4 @@
+1. Add Icon for scale loglog/semilogx/semilogy/linear
+2. Message box
+3. Exception handling
+4. Remove comments
